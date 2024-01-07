@@ -185,8 +185,8 @@ header a {
     /* margin: 1rem; */
     /* padding: 1rem; */
 
-    width: 3em;
-    height: 3em;
+    width: 3.5em;
+    height: 3.5em;
 
     border-radius: 1rem;
     background-color: var(--mainDark1);
